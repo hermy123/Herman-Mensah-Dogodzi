@@ -1,7 +1,6 @@
 ### Hi there👋
-
 # 💫 About Me:
-I'm Herman Mensah Dogodzi from Ghana. <br>I am a Full stack Developer.<br>I look for the chance to contribute to organizational progress and efficiency in today’s dynamic and changing world.<br>I'm currently learning SQL.<br>Do you know you cannot lick your elbow?  
+I am a passionate Full Stack Developer on a mission to contribute to organizational progress and efficiency in today’s dynamic and ever-changing world. <br>With a  background in web development and a keen interest in problem-solving.<br> I strive to create impactful and user-friendly solutions.<br>I am currently learning SQL.<br>Do you know you cannot lick your elbow?  <br>Looking forward to connecting with like-minded individuals and making a positive impact in the tech community! 🚀
 
 
 ## 🌐 Socials:
@@ -18,4 +17,5 @@ I'm Herman Mensah Dogodzi from Ghana. <br>I am a Full stack Developer.<br>I look
 [![](https://visitcount.itsvg.in/api?id=hermy123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hermy123&theme=dark&show_icons=true)
